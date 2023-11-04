@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I am Ashi</h1>
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashi-gaur&label=Profile%20views&color=0e75b6&style=flat" alt="ashi-gaur" /> </p>
+I'm an aspiring software developer who loves solving problems and creating applications that make life easier for people. My coding journey started with the basics, and I've been on a continuous learning adventure, exploring various technologies and tools.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashi-gaur" alt="ashi-gaur" /></a> </p>
+On my GitHub profile, you'll find a bunch of projects, ranging from my solo endeavors to exciting collaborations with others. I aspire to write clean, efficient, and maintainable code while constantly improving my skills and knowledge.
+
+I truly believe that success in the tech world comes from teamwork and collaboration. I'm always open to working with other developers to bring fresh ideas to life.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashi-gaur&label=Profile%20views&color=0e75b6&style=flat" alt="ashi-gaur" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
